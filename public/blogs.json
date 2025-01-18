@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/XCpddKm/ganogi-shop.jpg",
+      "title": "Exploring the Future of Technology",
+      "author": "John Doe",
+      "img": "https://i.ibb.co.com/xqyDMv3/Ariful.png",
+      "posted_date": "Jan 14 (4 Days ago)",
+      "reading_time": 5,
+      "hashtags": ["#Technology", "#Innovation", "#Future"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/zrPJkb8/buty-bvar.jpg",
+      "title": "10 Tips for Healthy Living",
+      "author": "Jane Smith",
+      "img": "https://i.ibb.co.com/TKZxGDD/Whats-App-Image-2024-09-12-at-07-15-27-1acf39f9.jpg",
+      "posted_date": "Jan 12 (6 Days ago)",
+      "reading_time": 7,
+      "hashtags": ["#Health", "#Lifestyle", "#Wellness"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/my41zky/Potenzi.jpg",
+      "title": "Mastering JavaScript in 2025",
+      "author": "Alex Johnson",
+      "img": "https://i.ibb.co.com/xqyDMv3/Ariful.png",
+      "posted_date": "Jan 10 (8 Days ago)",
+      "reading_time": 8,
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/PMCxD7x/totpash-dxn.jpg",
+      "title": "The Art of Minimalist Design",
+      "author": "Emily Davis",
+      "img": "https://i.ibb.co.com/TKZxGDD/Whats-App-Image-2024-09-12-at-07-15-27-1acf39f9.jpg",
+      "posted_date": "Jan 8 (10 Days ago)",
+      "reading_time": 6,
+      "hashtags": ["#Design", "#Minimalism", "#Creativity"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/Qrx1Qyb/dxn-lemonzhi.jpg",
+      "title": "Top Travel Destinations for 2025",
+      "author": "Michael Lee",
+      "img": "https://i.ibb.co.com/xqyDMv3/Ariful.png",
+      "posted_date": "Jan 6 (12 Days ago)",
+      "reading_time": 4,
+      "hashtags": ["#Travel", "#Adventure", "#Destinations"]
+    }
+  ]
+  
